@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Arpan Chavda
-tagline: Yet Another Reverse Engineer
+title : Yet Another Reverse Engineer
+tagline: 
 author :
   name : Arpan Chavda
   email : arpanchavdaeng@gmail.com
