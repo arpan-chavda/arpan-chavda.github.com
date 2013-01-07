@@ -72,7 +72,7 @@ JB :
   #
   archive_path: /archive.html
   categories_path : /categories.html
-  tags_path : /tags.html
+  projects_path : /projects.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
