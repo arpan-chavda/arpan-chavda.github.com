@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 I'm [Arpan Chavda](http://arpan-chavda.github.com),
  
- 21 year old Indian developer,opensource enthusiast,linuxer,
+ 21 years old Indian developer,opensource enthusiast,linuxer,
 computer science student and technology explorer.
 
 
@@ -20,8 +20,7 @@ computer science student and technology explorer.
 </ul>
 
 ## Working on /dev
-I'm currently working on to develope free and open-source GNU/Linux operating system.
-DMLinux [Github Link](https://github.com/codejar-lab/dmlinux)
+I'm currently working on developement of custom GNU/Linux distributions.Look at [here](https://github.com/codejar-lab).
 
 
 
