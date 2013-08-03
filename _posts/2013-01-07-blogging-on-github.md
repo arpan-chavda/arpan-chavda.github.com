@@ -2,6 +2,7 @@
 layout: post
 title: "Blogging on Github"
 description: ""
+date: 2012-01-26
 category: 
 tags: []
 ---
