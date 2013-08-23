@@ -12,6 +12,7 @@ group: navigation
 </ul>
 
 <div id="github-projects"></div>
+<div id="collob-projects"></div>
 {% for tag in site.tags %} 
   <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
   <ul>
@@ -23,6 +24,12 @@ group: navigation
 <script src="git.js" type="text/javascript"></script>
 <script type="text/javascript">
   $(function() {
-    $("#github-projects").loadRepositories("andrewdavey");
+    $("#github-projects").loadRepositories("arpan-chavda");
+    $("#collob-projects").loadRepositories("codejar-lab");
+  });
+</script>
+<script type="text/javascript">
+  $(function() {
+    
   });
 </script>
