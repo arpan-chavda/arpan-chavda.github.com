@@ -23,6 +23,6 @@ group: navigation
 <script src="git.js" type="text/javascript"></script>
 <script type="text/javascript">
   $(function() {
-    $("#github-projects").loadRepositories("arpan-chavda");
+    $("#github-projects").loadRepositories("andrewdavey");
   });
 </script>
