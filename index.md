@@ -8,7 +8,7 @@ tagline: Supporting tagline
 I'm [Arpan Chavda](http://arpan-chavda.github.com),
  
  22 years old Indian developer,opensource enthusiast,linuxer,
-computer science student and technology explorer.
+computer science student and tech-geek.
 
 
 ##My Blog posts
@@ -20,6 +20,6 @@ computer science student and technology explorer.
 </ul>
 
 ## Working on /dev
-I was working on various projects but now im not doing any projects.Just boosting for future.You can look at my project list.
+I was working on various projects but currently Im not doing any projects.Just boosting myself for the future.You can look at my project page.Vote of thanks to FOSS community!!!
 
 
