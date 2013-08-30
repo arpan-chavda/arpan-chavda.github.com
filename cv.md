@@ -95,13 +95,12 @@ FOSS Projects
 
  oguj-dict-android: Gujarati Dictionary for Android; Upstream author, maintainer.
  
- kindle-guj: Gujarati Dictionary for Kindle(1-4/Touch/PW); Upstream author, maintainer.
+ kindle-guj-dict: Gujarati Dictionary for Kindle devices; Upstream author, maintainer.
 
  autoon-util: application which boots up PC at given time from shut down.
 
  Other projects: Keryx Project Generator(Addon for Keryx software)
                  python-fetcher (custom html parser using beautifulsoup)
-                 Wikimedia (Contributor: Gujarati/English Wikipedia, Commons),
 
 Seminars & Presentations
 ------------------------
@@ -116,16 +115,13 @@ Seminars & Presentations
 
 Workshops
 ---------
- Introduction to Embedded systems: 
-  An introductory workshop on the basic features and working of embedded systems by ACES.
+ Introduction to Embedded systems held by ACES.
  Linux Workshop with Spoken tutorials held by IIT-Bombay.
- Mobile Application Development with Android: 
-  An introductory workshop on the basic tactics and sample tutorial .
+ Mobile Application Development with Android by Nirma Univesity
 
 References
 ----------
- Available at: https://www.linkedin.com/in/arpanchavdaeng
- More references available upon request.
+References will be available upon request.
 
 Other Links
 -----------
@@ -133,11 +129,11 @@ Other Links
  Github: https://github.com/arpan-chavda
  Gitorious: https://gitorious.org/~arpan-chavda
 
-Up-to-date copy of this CV is available at,
- http://gitorious.org/mycv-arpan/mycv-arpan/raw/cv.txt
+ Up-to-date copy of this CV is available at,
+  http://gitorious.org/mycv-arpan/mycv-arpan/raw/cv.txt
 
-Email me for any additional details and other formats are on gitorious repository.
+ Email me for any additional details and other formats are on this repository.
 
-Arpan Chavda
-Last Updated: Wed, 28 Aug 2013 11:03:50 +0530
+ Arpan Chavda
+Last Updated: Fri, 30 Aug 2013 14:29:42 +0530
 {% endhighlight %}
